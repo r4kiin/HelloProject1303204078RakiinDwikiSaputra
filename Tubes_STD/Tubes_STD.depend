@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1673651318 source:c:\users\predator\onedrive\documents\struktur data\tubes_std\infixevaluator.cpp
+	"infixEvaluator.h"
+
+1673651317 c:\users\predator\onedrive\documents\struktur data\tubes_std\infixevaluator.h
+	"stackHeader.h"
+
+1673651317 c:\users\predator\onedrive\documents\struktur data\tubes_std\stackheader.h
+	<iostream>
+
+1673651315 source:c:\users\predator\onedrive\documents\struktur data\tubes_std\main.cpp
+	"stackheader.h"
+	"infixEvaluator.h"
+	<iostream>
+
+1673651318 source:c:\users\predator\onedrive\documents\tubes_std\infixevaluator.cpp
+	"infixEvaluator.h"
+
+1673651317 c:\users\predator\onedrive\documents\tubes_std\infixevaluator.h
+	"stackHeader.h"
+
+1673651317 c:\users\predator\onedrive\documents\tubes_std\stackheader.h
+	<iostream>
+
+1673651315 source:c:\users\predator\onedrive\documents\tubes_std\main.cpp
+	"stackheader.h"
+	"infixEvaluator.h"
+	<iostream>
+
+1673651509 source:c:\users\predator\onedrive\documents\tubes_std\stacksource.cpp
+	"stackheader.h"
+
